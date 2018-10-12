@@ -1,48 +1,23 @@
 # Assignment 03
 
-## How to check your work
+**DUE: Thursday, November 1, 2018 @ 5:00PM**
 
-If you want to check whether your code is _behaving as expected_, you can run the command **make tests** from the directory of the challenge you're
-working on.
+**WHERE TO GET IT**: `/users/library/csis/comp1501/assignments/3.asg.jpratt`
 
-> Just because the given tests run green does **not** mean everything is fine - we've only included a handful of the test data we will use to actually mark your assignments for correctness! You can add your own test data to the csv files in the `tests/data` directory; just add additional rows to the data already there.
+**SUBMISSION PROCEDURE**:
 
-If you want to see whether your code is _following the coding standards for this course_, you can run the command **make style** from the directory of the challenge you're working on.
+To submit your assignment, just use the usual **submit1501** on INS.
+When asked for the task identifier, please use **asg03**.
 
-> There is some overlap between the two tools used to do this task, so you may notice some warnings are repeated between the two tools. If you don't understand any of the warnings (they **can** be a little opaque), please talk to one of the IAs or your instructor.
+**WEIGHT: 5%** _(note the increase compared to the last 2 assignments)_
 
----
+**ANY QUESTIONS?** Please post any questions to [Piazza](https://piazza.com/class/jm9cg39jrr21zs?cid=9#), ideally in the **assignment3** folder.
 
-## Things you'll see
+## Overview
 
-- constants
-- variables
-- parameters
-- methods
-- conditional statements
-- repetition statements
-- value-returning methods (a.k.a. functions)
-- `Scanner` (for input from keyboard)
-- `System.out.println`
-- `String.format`
-- `System.out.format/printf`
-- integer division (`/`) and integer remainder (`%`)
+This assignment has 2 challenges.
 
-### Things you'll do
+- The **Gauge** challenge will need you to use some _while loops_ and _integer arithmetic_ to solve.
+- The **Josephus Problem** challenge will find you using _for loops_ along with some _nested loops_.
 
-- compile your code
-- fix syntax and logic errors
-- debug
-- read documentation
-- read other people's code
-- run automated tests
-- run static code checkers
-- break problems into small chunks (a.k.a. functional decomposition)
-- get keyboard input
-- continue prompting for input until suitable value received from user
-
-### Collateral Learning Opportunities
-
-- parsing videos for useful information
-- searching API for useful methods
-- working toward a solution by working through examples of the problem
+Both challenges have an element of user input validation, which also involves some looping. Fortunately, the validation requirements are very similar between the two challenges, so once you've figured out the validation for one, the other should be fairly straightforward.
