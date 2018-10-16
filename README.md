@@ -1,6 +1,6 @@
 # Assignment 03
 
-**DUE: Thursday, November 1, 2018 @ 5:00PM**
+**DUE: Tuesday, November 6, 2018 @ 5:00PM**
 
 **WHERE TO GET IT**: `/users/library/csis/comp1501/assignments/3.asg.jpratt`
 
