@@ -21,3 +21,7 @@ This assignment has 2 challenges.
 - The **Josephus Problem** challenge will find you using _for loops_ along with some _nested loops_.
 
 Both challenges have an element of user input validation, which also involves some looping. Fortunately, the validation requirements are very similar between the two challenges, so once you've figured out the validation for one, the other should be fairly straightforward.
+
+## WARNING
+
+**You cannot use ArrayLists (or arrays or any kind of collection) in this assignment. Anywhere.**
