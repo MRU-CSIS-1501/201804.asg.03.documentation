@@ -17,8 +17,8 @@ When asked for the task identifier, please use **asg03**.
 
 This assignment has 2 challenges.
 
-- The **Gauge** challenge will need you to use some _while loops_ and _integer arithmetic_ to solve.
-- The **Josephus Problem** challenge will find you using _for loops_ along with some _nested loops_.
+- The **Gauge** challenge will need you to use some _while loops_ and _integer arithmetic_ to solve. There's a _nested loop_ in here.
+- The **Josephus Problem** challenge will find you using _for loops_ along with some _nested loops_ here as well.
 
 Both challenges have an element of user input validation, which also involves some looping. Fortunately, the validation requirements are very similar between the two challenges, so once you've figured out the validation for one, the other should be fairly straightforward.
 
